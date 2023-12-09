@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shivendra Kumar</h1>
 <h3 align="center">A passionate Backend developer from India.</h3>
-<img src= "https://appsembler.com/wp-content/uploads/2023/07/beemarrie_developer_marketing_computer_strategy_deda1786-e5df-4461-957a-01d758880ac0.png">
+<img align="right" width="400" src= "https://appsembler.com/wp-content/uploads/2023/07/beemarrie_developer_marketing_computer_strategy_deda1786-e5df-4461-957a-01d758880ac0.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivkr0209&label=Profile%20views&color=0e75b6&style=flat" alt="shivkr0209" /> </p>
 
